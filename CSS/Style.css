@@ -1,0 +1,210 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    box-sizing: border-box;
+}
+.my-style-color{
+    color: #4ba9d7;
+}
+.my-style-1{
+    font-weight: bold;
+}
+.my-style-1 p:last-child{
+    text-align: right;
+}
+.my-style-2{
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.style-h5{
+    font-size: 20px;
+}
+.style-left{
+    background-color: #494040;
+    padding: 35px;
+}
+.style-right{
+    padding: 55px 35px;
+}
+.style-left .img-table{
+    text-align: center;
+}
+.style-left .img-table img{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    object-position: 100% 80%;
+}
+.name-table{
+    margin: 30px 0 60px 0;
+}
+.name-table p{
+    font-size: 14px;
+}
+.infor-table{
+    margin-bottom: 20px;
+    padding: 10px;
+    border-top: 1px solid #4ba9d7;
+    position: relative;
+}
+.infor-table h5{
+    position: absolute;
+    top: -15px;
+    margin-left: -10px;
+    background-color: #494040;
+    width: 75%;
+}
+.infor-table .my-infor{
+    margin: 15px 0;
+}
+.infor-table .my-infor .phone{
+    color: white;
+}
+.infor-table .my-infor .phone i{
+    margin-right: 20px;
+}
+.infor-table .my-infor .email{
+    color: white;
+}
+.infor-table .my-infor .email i{
+    margin-right: 20px;
+}
+.infor-table .my-infor .facebook a{
+    text-decoration: none;
+    color: white;
+}
+.infor-table .my-infor .facebook a:hover{
+    color: #4ba9d7;
+    transition: 0.3s;
+}
+.infor-table .my-infor .facebook i{
+    margin-right: 20px;
+}
+.infor-table .my-infor .address{
+    color: white;
+}
+.infor-table .my-infor .address i{
+    margin-right: 20px;
+}
+.skill-table{
+    margin-bottom: 20px;
+    position: relative;
+    border-top:solid 1px #4ba9d7;
+    padding: 10px;
+}
+.skill-table h5{
+    position: absolute;
+    top: -15px;
+    margin-left: -10px;
+    background-color: #494040;
+    width: 50%;
+}
+.skill-table .my-skill{
+    margin: 15px 0;
+    color: white;
+}
+.skill-table .my-skill .skill-japanese{
+    margin-bottom: 25px;
+}
+.skill-table .my-skill .skill-japanese p{
+    margin: 0;
+}
+.skill-table .my-skill .skill-dev p{
+    margin: 0;
+}
+.interest-table{
+    margin-bottom: 20px;
+    position: relative;
+    border-top:solid 1px #4ba9d7;
+    padding: 10px;
+}
+.interest-table h5{
+    position: absolute;
+    top: -15px;
+    margin-left: -10px;
+    background-color: #494040;
+    width: 38%;
+}
+.interest-table p{
+    color: white;
+    margin-top: 15px;
+}
+.target-table{
+    margin-bottom: 20px;
+    position: relative;
+    border-top:solid 1px #4ba9d7;
+    padding: 10px;
+}
+.target-table h5{
+    position: absolute;
+    top: -15px;
+    margin-left: -10px;
+    background-color: white;
+    width: 37%;
+}
+.target-table p{
+    color: black;
+    margin: 15px 0;
+}
+.experience-table{
+    margin-bottom: 20px;
+    position: relative;
+    border-top:solid 1px #4ba9d7;
+    padding: 10px;
+}
+.experience-table h5{
+    position: absolute;
+    top: -15px;
+    margin-left: -10px;
+    background-color: white;
+    width: 37%;
+}
+.experience-table .my-experience{
+    margin: 15px 0;
+    color: black;
+}
+.experience-table .my-experience .experience-staff{
+    margin: 15px 0 30px 0;
+}
+.education-table{
+    margin-bottom: 20px;
+    position: relative;
+    border-top:solid 1px #4ba9d7;
+    padding: 10px;
+}
+.education-table h5{
+    position: absolute;
+    top: -15px;
+    margin-left: -10px;
+    background-color: white;
+    width: 17%;
+}
+.education-table-table .my-education{
+    margin: 15px 0;
+    color: black;
+}
+.education-table .my-education .education-japanese{
+    margin: 15px 0 30px 0;
+}
+.certificate-table{
+    margin-bottom: 20px;
+    position: relative;
+    border-top:solid 1px #4ba9d7;
+    padding: 10px;
+}
+.certificate-table h5{
+    position: absolute;
+    top: -15px;
+    margin-left: -10px;
+    background-color: white;
+    width: 20%;
+}
+.certificate-table .my-certificate{
+    margin-top: 15px;
+}
+.certificate-table .my-certificate span{
+    font-weight: normal;
+}
+
+
